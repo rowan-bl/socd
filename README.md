@@ -2,12 +2,6 @@
 
 This project is a streamlined SOCD cleaner optimized for FPS games. It is a recoded version of the original [SOCD Cleaner](https://github.com/valignatev/socd) by [valignatev](https://github.com/valignatev), with unnecessary features removed to focus on enhancing performance in FPS games.
 
-## Features
-
-- Simple and effective cleaning of opposite directional inputs.
-- Customizable key bindings, allowing you to tailor the controls to your preference.
-- Lightweight and designed for high performance in gaming environments.
-
 ## Compilation
 
 Using MSVC
